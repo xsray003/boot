@@ -1,0 +1,171 @@
+header{
+  background-color: #EF6D6D;
+  padding: 30px 0;
+}
+
+.navbar{
+  padding: 0 0 60px 0;
+  }
+  .navbar-brand{
+    font-size: 35px;
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+  }
+  .nav-item{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+  }
+.banner-text{
+  margin-top: 50px;
+  font-size: 65px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  line-height: 1.5em;
+  color: white;
+}
+.banner-img{
+  width: 60%;
+  padding: 30px 0;
+  transform: rotate(15deg);
+}
+.download-button{
+  margin: 10px;
+  padding: 10px;
+  font-size: 20px;
+}
+
+.fa-brands{
+  padding-right: 10px;
+}
+/* second section */
+
+.second-card{
+  text-align: center;
+  margin: 130px 0;
+  padding: 50px;
+}
+.second-card h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 22px;
+  margin: 20px;
+  color: #F2789F
+  }
+.second-para{
+  font-family: 'Merriweather', serif;
+}
+.second-img {
+  width: 30%;
+}
+/* third section */
+
+.third{
+  text-align: center;
+  background-color: #EF6D6D;
+  margin: 20px 0;
+  padding: 40px 0;
+
+}
+
+.carousel-img{
+  margin: 30px 0;
+  border-radius: 100%;
+
+}
+.third-para{
+  font-size: 30px;
+  font-family: 'Sacramento', cursive;
+  color: white;
+  line-height: 4em;
+  padding: 20px;
+}
+
+.third-heading{
+  color: white;
+  margin: 20px 0;
+  padding: 20px 0;
+  font-size: 45px;
+  font-family: 'Ubuntu', sans-serif
+}
+.third-part2{
+  margin: 30px 0;
+  float: left;
+}
+.third-img{
+  width: 70%;
+}
+.third-card{
+  float: left;
+}
+
+/* fourth section */
+.fourth{
+  text-align: center;
+  margin: 80px 0;
+}
+.f-section h2{
+  font-size: 40px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700
+}
+.f-section p{
+  font-family: 'Merriweather', serif;
+
+}
+.f-card{
+  margin: 10px;
+  border-style: solid;
+  border-width: thin;
+  border-color: #FC4F4F;
+  padding: 0px;
+}
+.f-card h3{
+  border-style: solid;
+  border-width: thin;
+  border-color: pink;
+  font-family: 'Ubuntu', sans-serif;
+  padding: 10px;
+  font-size: 32px;
+}
+.f-card h5 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  margin: 10px;
+  padding-top: 10px;
+}
+.f-card h4 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
+ .f-button{
+   margin-top: 55px;
+ }
+
+ .f-button1{
+   margin: 30px;
+ }
+/* footer */
+
+footer{margin-top: 30px;
+  padding: 50px 0 30px;
+  text-align: center;
+  background-color: black
+}
+
+footer h2{
+  color: #EC255A;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 300;
+  padding: 20px 0;
+}
+.copyri8{
+  background-color: black;
+  padding: 30px 0 20px;
+
+}
+.copyri8 h6{
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  line-height: 1.5em;
+  }
